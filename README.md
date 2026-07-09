@@ -2,7 +2,7 @@
 
 A real-time transparent overlay panel for macOS. Place it over any window — a PDF, a browser, a terminal — and apply live visual effects to whatever is behind it.
 
-<video src="assets/demo.gif" autoplay loop muted playsinline></video>
+![FocusLens Demo](assets/demo.gif)
 
 ## Effects
 
