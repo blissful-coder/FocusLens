@@ -1,0 +1,4 @@
+pygame>=2.5
+numpy>=1.26
+Pillow>=10
+pyobjc-framework-Quartz
